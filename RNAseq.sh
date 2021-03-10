@@ -10,6 +10,9 @@ module load samtools/1.10
 module load bcftools/1.10.2
 module load java/1.8.0
 module load picard-tools/1.87
+module load java/1.8.0
+module load hisat2/2.2.1
+module load R/3.6.2
 
 # or pass the file name to the shell script, how would I do this?
 file="shortRNAseq.prefix.txt"
